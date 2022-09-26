@@ -1,6 +1,6 @@
 let fs = require('fs') 
 let chalk = require('chalk')
-
+gc = "120363045356440741@g.us"
 owner = [
   ['6287793591508'],
   ['6287793591508'],
